@@ -1,4 +1,7 @@
-Difference between List list=new ArrayList & ArrayList aList=new ArrayList:-
-
-When you declare List list = new ArrayList() list is limited to the methods provided by the interface List, 
+1)Difference between List list=new ArrayList & ArrayList aList=new ArrayList:-
+->When you declare List list = new ArrayList() list is limited to the methods provided by the interface List, 
 while when you declare it ArrayList al = new ArrayList() it can use all methods and fields in an arraylist.
+
+2)Set:-
+->if we want a fast set, we should use HashSet; if we need a sorted set, then TreeSet should be used; if we 
+want a set that can be read by following its insertion order, LinkedHashSet should be used.

@@ -1,0 +1,4 @@
+Difference between List list=new ArrayList & ArrayList aList=new ArrayList:-
+
+When you declare List list = new ArrayList() list is limited to the methods provided by the interface List, 
+while when you declare it ArrayList al = new ArrayList() it can use all methods and fields in an arraylist.

@@ -12,3 +12,5 @@ want a set that can be read by following its insertion order, LinkedHashSet shou
 syso(list.lastIndexOf(Object element));
 ->Check in methods for java LinkedList: 
 https://www.geeksforgeeks.org/linked-list-in-java/#targetText=To%20store%20the%20elements%20in,class%20implements%20the%20list%20interface.
+
+4)Hashset is used for shuffling the given String.

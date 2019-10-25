@@ -5,3 +5,6 @@ while when you declare it ArrayList al = new ArrayList() it can use all methods 
 2)Set:-
 ->if we want a fast set, we should use HashSet; if we need a sorted set, then TreeSet should be used; if we 
 want a set that can be read by following its insertion order, LinkedHashSet should be used.
+
+3)LinkedList:-
+->In here we the objects are not stored in the contiguous location i.e not they are not neighbour in terms of index.

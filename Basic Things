@@ -8,3 +8,7 @@ want a set that can be read by following its insertion order, LinkedHashSet shou
 
 3)LinkedList:-
 ->In here we the objects are not stored in the contiguous location i.e not they are not neighbour in terms of index.
+->By the help of this we can find the index no or first index/last index values. e.g: List<String> list = new ArrayList<String>();
+syso(list.lastIndexOf(Object element));
+->Check in methods for java LinkedList: 
+https://www.geeksforgeeks.org/linked-list-in-java/#targetText=To%20store%20the%20elements%20in,class%20implements%20the%20list%20interface.
